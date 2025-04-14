@@ -1,0 +1,32 @@
+Juan Perez, fractura de pierna, C
+Maria Ramirez, apendicitis, A
+Lorenzo Toledo, chikunguya, E
+Carmen Sarmientos, dolores de parto, B
+Luis Gómez, golpe en la cabeza, B
+Elena Márquez, fiebre alta, D
+José Martínez, ataque cardíaco, A
+Ana López, hueso roto, C
+Pedro Castro, quemaduras leves, D
+Luisa Fernández, dolor de espalda, E
+Marco Vásquez, dificultad para respirar, A
+Sofía Herrera, sangrado nasal, C
+Ricardo Ibarra, esguince de tobillo, D
+Patricia Mendoza, contracciones fuertes, B
+Julio Aguilar, dolor de estómago, E
+Gabriela Mena, reacción alérgica grave, A
+Tomás Ríos, golpe en el pecho, B
+Isabel Pineda, dolor abdominal, C
+Carlos Ramírez, mordedura de perro, B
+Natalia Díaz, presión arterial alta, C
+David Hernández, vértigo, D
+Rosa Morales, conjuntivitis, E
+Esteban Jiménez, pérdida de conciencia, A
+Verónica Cruz, dolor intenso en la pierna, B
+Arturo Campos, mareos leves, D
+Camila Solís, tos persistente, E
+Mauricio Ortega, infección urinaria, C
+Andrea Cifuentes, hinchazón en el cuello, B
+Felipe Rodríguez, fiebre y vómito, D
+Alejandra Chávez, golpe fuerte en la cabeza, A
+Héctor Lemus, dolor en el pecho, B
+Bianca Morales, caída de escalera, C
